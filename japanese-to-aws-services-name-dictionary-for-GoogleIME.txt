@@ -1,0 +1,57 @@
+だいなも	DynamoDB	名詞	
+いーしー	EC2	名詞	
+らむだ	Lambda	名詞	
+えす	S3	名詞	
+ぐれいしあ	S3 Glacier	名詞	
+えらすてぃ	ElastiCache	名詞	
+れっどしふと	Amazon Redshift	名詞	
+ぶいぴーしー	VPC	名詞	
+くらうどふろんと	CloudFront	名詞	
+るーと	Route 53	名詞	
+えーぴーあい	API Gateway	名詞	
+だいれくとこねくと	Direct Connect	名詞	
+だいれくとこねくと	DX	名詞	
+こーどこみっと	CodeCommit	名詞	
+こーどびるど	CodeBuild	名詞	
+びるど	Build	名詞	
+こーどでぷろい	CodeDeploy	名詞	
+でぷろい	Deploy	名詞	
+おーぐ	AWS Organizations	名詞	
+くらうどうぉっち	CloudWatch	名詞	
+おーとすけーりんぐ	Auto Scaling	名詞	
+くらうどふぉーめーしょん	CloudFormation	名詞	
+くらうどとれいる	CloudTrail	名詞	
+とらすてっど	Trusted Advisor	名詞	
+うぇるあーき	Well-Architected	名詞	
+あーき	Architected	名詞	
+そりゅーしょんあーき	Solutions Architect	名詞	
+あーき	Architecture	名詞	
+きねしす	Kinesis	名詞	
+せーじ	Amazon SageMaker	名詞	
+びーんすたーく	Elastic Beanstalk	名詞	
+れこぐにしょん	Amazon Rekognition	名詞	
+えーだぶ	AWS	名詞	
+とらんす	Amazon Transcribe	名詞	
+あてな	Athena	名詞	
+あいあむ	IAM	名詞	
+あいあむゆーざー	IAMユーザー	名詞	
+あいあむろーる	IAMロール	名詞	
+せきゅりてぃぐるーぷ	Security Group	名詞	
+たーげっとぐるーぷ	Taraget Group	名詞	
+ろーどばらんさ	ELB	名詞	
+ろーどばらんさ	Elastic Load Balancing	名詞	
+こぐにと	Cognito	名詞	
+しんぐるさいんおん	Single Sign-On	名詞	
+さーてぃふぃ	Certificate Manager	名詞	
+わふ	WAF	名詞	
+わふ	Web Application Firewall	名詞	
+ふぁいやー	Firewall	名詞	
+あぷり	Application	名詞	
+あんぷり	AWS Amplify	名詞	
+あっぷ	AWS Appsync	名詞	
+すーめり	Amazon Sumerian	名詞	
+のーてぃふぃ	Simple Notification Service	名詞	
+きゅー	Simple Queue Service	名詞	
+きゅー	Queue	名詞	
+あれくさ	Alexa	名詞	
+ちゃいむ	Chime	名詞	
